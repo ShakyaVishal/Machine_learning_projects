@@ -1,2 +1,2 @@
-# Public-machine-learning
+# Publi-machine-learning
 Learning projects on ML
